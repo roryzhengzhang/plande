@@ -1,4 +1,4 @@
-# plande-agent
+# Plande
 
 Dynamic planning agent framework scaffold managed by `uv`.
 

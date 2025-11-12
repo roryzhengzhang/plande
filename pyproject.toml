@@ -1,5 +1,5 @@
 [project]
-name = "plande-agent"
+name = "plande"
 version = "0.1.0"
 description = "Dynamic planning agent framework with uv-based packaging."
 readme = "README.md"
